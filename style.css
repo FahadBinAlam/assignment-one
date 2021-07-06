@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins',sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.half-width{
+width: 50%;
+padding: 5%;
+}
+section{
+    display: flex;
+    margin-bottom: 5px;
+}
+#second-paragraph{
+    background-color: #f2cdb9;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: maroon;
+    font-weight: 700;
+}
+.food-review{
+    background-color:white;
+    width:302px;
+    height:400px;
+    float:left;
+    margin:2%;
+    padding: 20px 20px 10px 60px;
+    border-radius: 10px; 
+     
+}
+.footer{
+    margin-top:500px ;
+    padding:20px
+}
+h4{
+    outline-color:white
+}
